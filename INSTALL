@@ -1,0 +1,9 @@
+Building IMCoin
+
+See doc/readme-qt.rst for instructions on building IMCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of IMCoin.
+
+See doc/build-*.txt for instructions on building imcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of IMCoin.
